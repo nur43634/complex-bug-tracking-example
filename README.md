@@ -1,1 +1,11 @@
-# complex-bug-tracking-example
+# Complex Bug Tracking Example
+## Цели проекта
+- Демонстрация работы с системой отслеживания ошибок GitHub Issues.
+- Организация задач с помощью Milestones и Projects.
+## Функциональность
+- Ведение списка ошибок (Issues).
+- Группировка задач по категориям (Labels).
+- Автоматическое управление статусами задач.
+## Условия эксплуатации
+- Требуется аккаунт на GitHub.
+- Использование веб-интерфейса GitHub или Git CLI.# complex-bug-tracking-example
